@@ -1,0 +1,6 @@
+#number{
+    border: 0px cyan;
+    width: 500px;
+    height: 700px;
+    background:linear-gradient(90deg, cyan, pink)
+}
