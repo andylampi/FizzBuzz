@@ -8,6 +8,7 @@ div{
     height: 550px;
     box-shadow: 0px 30px 130px 2px grey;
     font-family: 'Scheherazade New', serif;
+    border-radius: 10px;
 }
 button{
     border: 0px;
