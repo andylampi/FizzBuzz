@@ -14,7 +14,7 @@ function step1() {// it builds an array of 100 elements and return Fizz or Buzz 
             arr[n] = n; // else add
         }
     }
-    document.getElementById("number").innerHTML = arr;
+    // document.getElementById("number").innerHTML = arr;
     return arr; 
 }
 
